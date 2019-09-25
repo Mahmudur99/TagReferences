@@ -1,0 +1,12 @@
+table{
+	border:1px solid blue;
+}
+caption{
+	color: red;
+}
+th{
+	border:1px solid blue;
+}
+td{
+	border:1px solid blue;
+}
